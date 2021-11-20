@@ -7,7 +7,7 @@ Roza has a completed panel for demographic information and now needs to visualiz
 We are creating :
 
 Horizontal Bar Chart
-Gauge Chart
+and Gauge Chart
 
 <img width="680" alt="Bar and gauge" src="https://user-images.githubusercontent.com/86980240/142734322-2bea339a-cadc-4385-8728-43da26e6b4ff.png">
 
