@@ -1,0 +1,11 @@
+body {
+
+    color: #f7f7f7;
+  }
+
+  .jumbotron {
+    background-image: url("https://i0.wp.com/factrepublic.com/wp-content/uploads/2019/01/5.Bacteria.jpg");
+    background-size: cover;
+    background-size: 100% 100%;
+    background-position: center;
+  }
